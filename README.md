@@ -1,1 +1,1 @@
-# supreme-meme
+# Some helpfull mini bash scripts
